@@ -1,1 +1,1 @@
-* Recriando a página inicial do Instagran :computer:
+# Recriando a página inicial do Instagran :computer:
